@@ -17,9 +17,8 @@ const Hero = () => {
             <a href='https://github.com/Hafsa720'>
               <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
-            <a href='https://app.netlify.com/teams/hafsa720/sites'>
-              <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300'/>
-               
+            <a href='https://linkedin.com/in/hafsarehman720'>
+              <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
           </div>
         </article>
